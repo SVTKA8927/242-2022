@@ -3,7 +3,7 @@
 The aim of this project is to experiment on finding similar businesses in the Yelp Challenge Dataset using clustering.
 
 ## Code
-We are using python 3.
+I am using python 3.
 The `code` directory contains the actual code for our clustering and evaluation.
 
 Running the `run.py` file will run a short clustering run using a small (100 points) subset of our data.
