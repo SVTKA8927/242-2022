@@ -1,10 +1,4 @@
-# 242-2016
-Project for the "Para-normal Distributions" team (Team #0) of CMPS242 Fall 2016.
-The group member are:
-   - Eriq Augustine
-   - Varun Embar
-   - Dhawal Joharapurkar
-   - Xiao Li
+# 242-2022
 
 The aim of this project is to experiment on finding similar businesses in the Yelp Challenge Dataset using clustering.
 
